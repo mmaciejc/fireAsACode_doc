@@ -1,4 +1,4 @@
-![fireAsACode](www_files\firelogo.png) 
+![fireAsACode](.\www_files\firelogo.png) 
 
 # fireAsACode
 
