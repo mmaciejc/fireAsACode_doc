@@ -1,5 +1,12 @@
-![fireAsACode](www_files/firelogo.png) 
+<table><tr><td><img src="www_files/firelogo.png"></td>
+<td>
+Authors/Support:
 
+Rafal Chrabaszcz: rchrabas@cisco.com <br>
+Maciej Czak: mmaciejc@cisco.com
+</td>
+</tr>
+</table>
 # fireAsACode
 
 A tool to manage configuration of Cisco FMC in structured object format.
@@ -58,7 +65,7 @@ Once pressing `Import configuration` button menu on the left will be shown.
 
 ![fireAsACode](www_files/pic_03.jpg)
 
-1. You can provide won name of the folder where the configuration will be saved
+1. You can provide own name of the folder where the configuration will be saved
 2. Tool connected to the FMC and fetched initial data. You can select which object you want to fetch.
 3. Imports the configuration. 
 
