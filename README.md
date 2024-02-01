@@ -3,7 +3,7 @@
 Authors/Support:
 
 Rafal Chrabaszcz: rchrabas@cisco.com <br>
-Maciej Czak: mmaciejc@cisco.com
+Maciej Czak: czaku@cisco.com
 </td>
 </tr>
 </table>
